@@ -3,8 +3,8 @@ server:
 
 spring:
   application:
-    name: CONFIG-SERVER-new
-
+    name: CONFIG-SERVER-newabcd
+    
 
   cloud:
     config:
